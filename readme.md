@@ -1,7 +1,7 @@
 # Long Among-Us Challenge
 A "Useless Website" honoring our lord and savior Doge, encouraging the printing of an endlessly scrolled doge
 
-![Long Among Us Challenge](https://longdogechallenge.com/assets/share.png)
+![Long Among Us Challenge]
 
 - Originally live coded on [twitch](https://www.twitch.tv/timbuildsuselesswebsites)... watchable here https://www.youtube.com/watch?v=Iksq8oaebMw
 - Hosted @ https://longsuschallenge.com/
