@@ -73,7 +73,7 @@ function injectWow() {
 
   const newWow = document.createElement("div")
   newWow.className = "textwow"
-  newWow.innerText = "WOW"
+  newWow.innerText = "SUS"
   newWow.style.left = 100 + Math.random() * (window.innerWidth - 300) + "px"
   newWow.style.top = wrapper.offsetHeight - 200 + "px"
   document.body.appendChild(newWow)
@@ -155,7 +155,7 @@ function injectLargeWow() {
 
   const newWow = document.createElement("div")
   newWow.className = "largewow"
-  newWow.innerText = "WOW"
+  newWow.innerText = "SUS"
   newWow.style.left = "50%"
   newWow.style.top = wrapper.offsetHeight - 200 + "px"
   document.body.appendChild(newWow)
