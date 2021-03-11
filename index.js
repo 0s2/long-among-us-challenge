@@ -87,59 +87,59 @@ function injectWow() {
   }
 
   if (wows === 10) {
-    lengthEl.innerText = "wow wow"
+    lengthEl.innerText = "sus"
   }
 
   if (wows === 50) {
-    lengthEl.innerText = "wow wow wow"
+    lengthEl.innerText = "i saw red vent"
   }
 
   if (wows === 100) {
-    lengthEl.innerText = "much wow"
+    lengthEl.innerText = "hard sus"
   }
 
   if (wows === 150) {
-    lengthEl.innerText = "long much wow"
+    lengthEl.innerText = "long sus"
   }
 
   if (wows === 250) {
-    lengthEl.innerText = "very long much wow"
+    lengthEl.innerText = "damn he SUS"
   }
 
   if (wows === 500) {
-    lengthEl.innerText = "wow very long much wow"
+    lengthEl.innerText = "sus as hell"
   }
 
   if (wows === 1000) {
-    lengthEl.innerText = "much wow very long much wow!"
+    lengthEl.innerText = "red killed"
   }
 
   if (wows === 2000) {
-    lengthEl.innerText = "much wow very long much wow!!"
+    lengthEl.innerText = "BLUE VENTED"
   }
 
   if (wows === 3000) {
-    lengthEl.innerText = "much wow very long much wow!!!"
+    lengthEl.innerText = "WHITE KILLED"
   }
 
   if (wows === 5000) {
-    lengthEl.innerText = "!!much wow very long much wow!!"
+    lengthEl.innerText = "go away"
   }
 
   if (wows === 10000) {
-    lengthEl.innerText = "many many wow amaze"
+    lengthEl.innerText = "congratz c: u sus as fuck"
   }
 
   if (wows === 30000) {
-    lengthEl.innerText = "amaze wow dont forget to print!"
+    lengthEl.innerText = "doubt you got this far"
   }
 
   if (wows === 50000) {
-    lengthEl.innerText = "wowwowowowowowowowowowowwoow"
+    lengthEl.innerText = "you didnt get this far"
   }
 
   if (wows === 80000) {
-    lengthEl.innerText = "wowwowowowowowowowowowowwooweeeeeeeeee"
+    lengthEl.innerText = "fuck no"
   }
 
   if (wows > 200 && Math.random() > 0.993) {
