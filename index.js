@@ -72,7 +72,7 @@ function injectWow() {
   wowEl.innerText = wows
 
   const newWow = document.createElement("div")
-  newWow.className = "textwow"
+  newWow.className = "textsus"
   newWow.innerText = "SUS"
   newWow.style.left = 100 + Math.random() * (window.innerWidth - 300) + "px"
   newWow.style.top = wrapper.offsetHeight - 200 + "px"
@@ -154,7 +154,7 @@ function injectLargeWow() {
   largeWowContainer.classList.remove("hidden")
 
   const newWow = document.createElement("div")
-  newWow.className = "largewow"
+  newWow.className = "largesus"
   newWow.innerText = "SUS"
   newWow.style.left = "50%"
   newWow.style.top = wrapper.offsetHeight - 200 + "px"
@@ -193,7 +193,7 @@ function shuffleArray(array) {
 }
 
 function onBodyClick(e) {
-  if (e.target.className === "textwow" && largewows >= 15) {
+  if (e.target.className === "textsus" && largewows >= 15) {
     rainbowwows++
     e.target.classList.add("rainbow")
     rainbowwowcontainer.classList.remove("hidden")
